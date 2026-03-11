@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">ChartVault default social image</title>
+  <desc id="desc">ChartVault branding with a market chart motif and macro chart messaging.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#08111a" />
+      <stop offset="100%" stop-color="#04101c" />
+    </linearGradient>
+    <linearGradient id="signal" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f1c66a" />
+      <stop offset="100%" stop-color="#ff8e5e" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1020" cy="110" r="200" fill="#79d7c5" fill-opacity="0.08" />
+  <circle cx="170" cy="90" r="210" fill="#f1c66a" fill-opacity="0.07" />
+
+  <rect x="66" y="56" width="1068" height="518" rx="28" fill="#0b1624" fill-opacity="0.88" stroke="#24425f" />
+  <rect x="92" y="88" width="76" height="76" rx="20" fill="url(#signal)" />
+  <text x="117" y="135" fill="#09111a" font-size="28" font-family="Arial, sans-serif" font-weight="700">CV</text>
+
+  <text x="190" y="126" fill="#edf6ff" font-size="42" font-family="Arial, sans-serif" font-weight="700">ChartVault</text>
+  <text x="190" y="164" fill="#8fa1b6" font-size="18" font-family="Courier New, monospace">FREE DAILY MARKET GRAPHS</text>
+
+  <text x="92" y="264" fill="#edf6ff" font-size="74" font-family="Arial, sans-serif" font-weight="700">Hard-to-find charts,</text>
+  <text x="92" y="338" fill="#edf6ff" font-size="74" font-family="Arial, sans-serif" font-weight="700">rebuilt for speed.</text>
+  <text x="92" y="394" fill="#8fa1b6" font-size="26" font-family="Arial, sans-serif">
+    Macro comparisons, breadth baskets, gold-denominated indexes,
+  </text>
+  <text x="92" y="430" fill="#8fa1b6" font-size="26" font-family="Arial, sans-serif">
+    and niche ratio pages delivered as a static, local-data chart library.
+  </text>
+
+  <g transform="translate(664 212)">
+    <rect width="396" height="238" rx="22" fill="#07131f" stroke="#1f3a55" />
+    <path d="M22 190 L64 188 L96 174 L130 179 L166 144 L198 152 L232 118 L264 126 L298 102 L334 66 L374 42"
+      fill="none" stroke="#79d7c5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M22 194 L60 190 L98 192 L130 168 L166 174 L198 166 L232 169 L264 140 L298 122 L334 132 L374 108"
+      fill="none" stroke="#f1c66a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="22" y1="174" x2="374" y2="174" stroke="#f1c66a" stroke-opacity="0.34" stroke-dasharray="5 5" />
+    <line x1="22" y1="132" x2="374" y2="132" stroke="#79d7c5" stroke-opacity="0.24" stroke-dasharray="5 5" />
+    <text x="24" y="30" fill="#8fa1b6" font-size="15" font-family="Arial, sans-serif">Macro comparison preview</text>
+    <text x="24" y="216" fill="#edf6ff" font-size="18" font-family="Arial, sans-serif">DXY vs Gold</text>
+  </g>
+
+  <text x="92" y="520" fill="#f1c66a" font-size="18" font-family="Courier New, monospace">chartvault.local</text>
+</svg>

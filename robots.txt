@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aveceasar.github.io/sitemap.xml
