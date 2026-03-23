@@ -8,27 +8,27 @@
   </url>
   <url>
     <loc>https://chartvault.local/gold</loc>
-    <lastmod>2026-03-22T18:28:42.315427+00:00</lastmod>
+    <lastmod>2026-03-23T00:15:13.278875+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/silver</loc>
-    <lastmod>2026-03-22T18:28:46.863522+00:00</lastmod>
+    <lastmod>2026-03-23T00:15:20.567733+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/oil</loc>
-    <lastmod>2026-03-22T18:28:36.658194+00:00</lastmod>
+    <lastmod>2026-03-23T00:15:11.531443+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/natural-gas</loc>
-    <lastmod>2026-03-22T18:28:46.082605+00:00</lastmod>
+    <lastmod>2026-03-23T00:15:15.809520+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/copper</loc>
-    <lastmod>2026-03-22T18:28:32.028578+00:00</lastmod>
+    <lastmod>2026-03-23T00:15:09.284567+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/bitcoin</loc>
-    <lastmod>2026-03-22T18:40:48.758453+00:00</lastmod>
+    <lastmod>2026-03-23T00:15:08.514264+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500</loc>
@@ -40,7 +40,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/dxy</loc>
-    <lastmod>2026-03-22T18:28:41.438118+00:00</lastmod>
+    <lastmod>2026-03-23T00:15:12.373390+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/vix</loc>
@@ -52,7 +52,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/dxy-vs-gold</loc>
-    <lastmod>2026-03-22T18:37:33.821724+00:00</lastmod>
+    <lastmod>2026-03-23T00:23:54.119237+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/equal-weight-sp500</loc>
@@ -112,7 +112,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/sp500-up-down-volume-ratio</loc>
-    <lastmod>2026-03-22T18:37:28.006105+00:00</lastmod>
+    <lastmod>2026-03-23T00:23:49.098508+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-volume-spike-count</loc>
@@ -228,7 +228,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/ratios/gold-silver</loc>
-    <lastmod>2026-03-22T18:34:13.902783+00:00</lastmod>
+    <lastmod>2026-03-23T00:20:56.547811+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/sp500-in-gold</loc>
@@ -240,15 +240,15 @@
   </url>
   <url>
     <loc>https://chartvault.local/ratios/bitcoin-in-gold</loc>
-    <lastmod>2026-03-22T18:34:14.788112+00:00</lastmod>
+    <lastmod>2026-03-23T00:20:57.400239+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/oil-natural-gas</loc>
-    <lastmod>2026-03-22T18:34:14.927964+00:00</lastmod>
+    <lastmod>2026-03-23T00:20:57.569138+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/copper-gold</loc>
-    <lastmod>2026-03-22T18:34:15.164569+00:00</lastmod>
+    <lastmod>2026-03-23T00:20:57.801269+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/msft-aapl</loc>
