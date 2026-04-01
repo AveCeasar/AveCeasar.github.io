@@ -1,316 +1,324 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://chartvault.local/</loc>
+    <loc>https://aveceasar.github.io/</loc>
   </url>
   <url>
-    <loc>https://chartvault.local/my-charts</loc>
+    <loc>https://aveceasar.github.io/my-charts</loc>
   </url>
   <url>
-    <loc>https://chartvault.local/about</loc>
+    <loc>https://aveceasar.github.io/about</loc>
   </url>
   <url>
-    <loc>https://chartvault.local/gold</loc>
-    <lastmod>2026-03-31T23:15:19.465943+00:00</lastmod>
+    <loc>https://aveceasar.github.io/gold</loc>
+    <lastmod>2026-04-01T13:12:00.525072+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/silver</loc>
-    <lastmod>2026-03-31T23:15:23.643339+00:00</lastmod>
+    <loc>https://aveceasar.github.io/silver</loc>
+    <lastmod>2026-04-01T13:12:07.721295+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/oil</loc>
-    <lastmod>2026-03-31T23:15:05.821331+00:00</lastmod>
+    <loc>https://aveceasar.github.io/oil</loc>
+    <lastmod>2026-04-01T13:11:47.699929+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/natural-gas</loc>
-    <lastmod>2026-03-31T23:15:22.709215+00:00</lastmod>
+    <loc>https://aveceasar.github.io/natural-gas</loc>
+    <lastmod>2026-04-01T13:12:06.669781+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/copper</loc>
-    <lastmod>2026-03-31T23:15:05.055918+00:00</lastmod>
+    <loc>https://aveceasar.github.io/copper</loc>
+    <lastmod>2026-04-01T13:11:46.552381+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/bitcoin</loc>
-    <lastmod>2026-03-31T23:15:04.259353+00:00</lastmod>
+    <loc>https://aveceasar.github.io/bitcoin</loc>
+    <lastmod>2026-04-01T13:11:45.622751+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500</loc>
-    <lastmod>2026-03-31T23:15:24.979911+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500</loc>
+    <lastmod>2026-04-01T13:12:09.129573+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/nasdaq100</loc>
-    <lastmod>2026-03-31T23:15:21.891732+00:00</lastmod>
+    <loc>https://aveceasar.github.io/nasdaq100</loc>
+    <lastmod>2026-04-01T13:12:05.722563+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/dxy</loc>
-    <lastmod>2026-03-31T23:15:10.702794+00:00</lastmod>
+    <loc>https://aveceasar.github.io/dxy</loc>
+    <lastmod>2026-04-01T13:11:48.793157+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/vix</loc>
-    <lastmod>2026-03-31T23:15:28.451811+00:00</lastmod>
+    <loc>https://aveceasar.github.io/vix</loc>
+    <lastmod>2026-04-01T13:12:12.482736+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/vix-vs-sp500-drawdown</loc>
+    <loc>https://aveceasar.github.io/vix-vs-sp500-drawdown</loc>
     <lastmod>2026-03-31T23:27:10.237795+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/dxy-vs-gold</loc>
-    <lastmod>2026-03-31T23:27:10.081959+00:00</lastmod>
+    <loc>https://aveceasar.github.io/dxy-vs-gold</loc>
+    <lastmod>2026-04-01T13:24:40.767846+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/equal-weight-sp500</loc>
-    <lastmod>2026-03-31T23:23:26.985009+00:00</lastmod>
+    <loc>https://aveceasar.github.io/equal-weight-sp500</loc>
+    <lastmod>2026-04-01T13:20:57.722667+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/mag7-vs-sp493</loc>
-    <lastmod>2026-03-31T23:23:34.624079+00:00</lastmod>
+    <loc>https://aveceasar.github.io/mag7-vs-sp493</loc>
+    <lastmod>2026-04-01T13:21:05.741555+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-vs-efa-vs-eem</loc>
+    <loc>https://aveceasar.github.io/sp500-vs-efa-vs-eem</loc>
     <lastmod>2026-03-31T23:23:34.927559+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-percent-above-moving-averages</loc>
-    <lastmod>2026-03-31T23:24:18.097788+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-percent-above-moving-averages</loc>
+    <lastmod>2026-04-01T13:21:45.661456+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-golden-cross-breadth</loc>
+    <loc>https://aveceasar.github.io/sp500-golden-cross-breadth</loc>
     <lastmod>2026-03-31T23:24:26.702152+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-advance-decline-line</loc>
+    <loc>https://aveceasar.github.io/sp500-advance-decline-line</loc>
     <lastmod>2026-03-31T23:24:32.778959+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-new-highs-minus-lows</loc>
+    <loc>https://aveceasar.github.io/sp500-new-highs-minus-lows</loc>
     <lastmod>2026-03-31T23:24:46.918589+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-within-5-percent-of-52-week-high</loc>
+    <loc>https://aveceasar.github.io/sp500-within-5-percent-of-52-week-high</loc>
     <lastmod>2026-03-31T23:25:01.340078+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-percent-in-bear-market</loc>
+    <loc>https://aveceasar.github.io/sp500-percent-in-bear-market</loc>
     <lastmod>2026-03-31T23:25:07.060910+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-percent-outperforming-index</loc>
+    <loc>https://aveceasar.github.io/sp500-percent-outperforming-index</loc>
     <lastmod>2026-03-31T23:26:18.227160+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-average-stock-distance-from-200dma</loc>
-    <lastmod>2026-03-31T23:26:25.959881+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-average-stock-distance-from-200dma</loc>
+    <lastmod>2026-04-01T13:23:54.752272+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-all-time-high-count</loc>
+    <loc>https://aveceasar.github.io/sp500-all-time-high-count</loc>
     <lastmod>2026-03-31T23:26:40.905206+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-rsi-extremes</loc>
+    <loc>https://aveceasar.github.io/sp500-rsi-extremes</loc>
     <lastmod>2026-03-31T23:26:35.770064+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-cross-sectional-volatility</loc>
-    <lastmod>2026-03-31T23:26:46.938523+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-cross-sectional-volatility</loc>
+    <lastmod>2026-04-01T13:24:17.201159+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-pain-index</loc>
-    <lastmod>2026-03-31T23:26:52.275682+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-pain-index</loc>
+    <lastmod>2026-04-01T13:24:22.942223+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-up-down-volume-ratio</loc>
-    <lastmod>2026-03-31T23:27:01.988373+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-up-down-volume-ratio</loc>
+    <lastmod>2026-04-01T13:24:32.513065+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-volume-spike-count</loc>
-    <lastmod>2026-03-31T23:27:09.803421+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-volume-spike-count</loc>
+    <lastmod>2026-04-01T13:24:40.502411+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-realized-vol-vs-vix</loc>
+    <loc>https://aveceasar.github.io/sp500-realized-vol-vs-vix</loc>
     <lastmod>2026-03-31T23:26:52.514093+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-atr-percent</loc>
+    <loc>https://aveceasar.github.io/sp500-atr-percent</loc>
     <lastmod>2026-03-31T23:26:52.681780+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-intraday-range-percent</loc>
+    <loc>https://aveceasar.github.io/sp500-intraday-range-percent</loc>
     <lastmod>2026-03-31T23:26:52.869182+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-underwater</loc>
+    <loc>https://aveceasar.github.io/sp500-underwater</loc>
     <lastmod>2026-03-31T23:26:53.054237+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-drawdown-duration</loc>
+    <loc>https://aveceasar.github.io/sp500-drawdown-duration</loc>
     <lastmod>2026-03-31T23:26:53.174422+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/mag7-drawdown-grid</loc>
+    <loc>https://aveceasar.github.io/mag7-drawdown-grid</loc>
     <lastmod>2026-03-31T23:23:35.221971+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-rolling-sharpe</loc>
+    <loc>https://aveceasar.github.io/sp500-rolling-sharpe</loc>
     <lastmod>2026-03-31T23:26:53.386572+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-streak-tracker</loc>
+    <loc>https://aveceasar.github.io/sp500-streak-tracker</loc>
     <lastmod>2026-03-31T23:26:53.661844+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-distance-from-200dma</loc>
+    <loc>https://aveceasar.github.io/sp500-distance-from-200dma</loc>
     <lastmod>2026-03-31T23:26:53.781680+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-sector-relative-strength</loc>
-    <lastmod>2026-03-31T23:23:44.961163+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-sector-relative-strength</loc>
+    <lastmod>2026-04-01T13:21:14.868009+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-sector-breadth-50dma</loc>
-    <lastmod>2026-03-31T23:23:57.546943+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-sector-breadth-50dma</loc>
+    <lastmod>2026-04-01T13:21:25.407467+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-sector-momentum-30d</loc>
-    <lastmod>2026-03-31T23:23:57.861118+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-sector-momentum-30d</loc>
+    <lastmod>2026-04-01T13:21:25.689267+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-sector-momentum-90d</loc>
-    <lastmod>2026-03-31T23:23:58.327461+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-sector-momentum-90d</loc>
+    <lastmod>2026-04-01T13:21:26.055728+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-sector-volatility-20d</loc>
-    <lastmod>2026-03-31T23:23:58.566371+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-sector-volatility-20d</loc>
+    <lastmod>2026-04-01T13:21:26.185103+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-sector-underwater</loc>
-    <lastmod>2026-03-31T23:23:58.757587+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-sector-underwater</loc>
+    <lastmod>2026-04-01T13:21:26.279894+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/sp500-sector-distance-from-200dma</loc>
-    <lastmod>2026-03-31T23:23:58.970155+00:00</lastmod>
+    <loc>https://aveceasar.github.io/sp500-sector-distance-from-200dma</loc>
+    <lastmod>2026-04-01T13:21:26.390659+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/basic-materials-vs-sp500</loc>
+    <loc>https://aveceasar.github.io/basic-materials-vs-sp500</loc>
     <lastmod>2026-03-31T23:23:35.815164+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/communication-services-vs-sp500</loc>
+    <loc>https://aveceasar.github.io/communication-services-vs-sp500</loc>
     <lastmod>2026-03-31T23:23:36.199741+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/consumer-cyclical-vs-sp500</loc>
+    <loc>https://aveceasar.github.io/consumer-cyclical-vs-sp500</loc>
     <lastmod>2026-03-31T23:23:37.264201+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/consumer-defensive-vs-sp500</loc>
+    <loc>https://aveceasar.github.io/consumer-defensive-vs-sp500</loc>
     <lastmod>2026-03-31T23:23:38.174577+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/energy-vs-sp500</loc>
-    <lastmod>2026-03-31T23:23:38.562295+00:00</lastmod>
+    <loc>https://aveceasar.github.io/energy-vs-sp500</loc>
+    <lastmod>2026-04-01T13:21:08.633107+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/financials-vs-sp500</loc>
-    <lastmod>2026-03-31T23:23:39.637164+00:00</lastmod>
+    <loc>https://aveceasar.github.io/financials-vs-sp500</loc>
+    <lastmod>2026-04-01T13:21:09.901366+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/healthcare-vs-sp500</loc>
+    <loc>https://aveceasar.github.io/healthcare-vs-sp500</loc>
     <lastmod>2026-03-31T23:23:41.029976+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/industrials-vs-sp500</loc>
-    <lastmod>2026-03-31T23:23:42.338418+00:00</lastmod>
+    <loc>https://aveceasar.github.io/industrials-vs-sp500</loc>
+    <lastmod>2026-04-01T13:21:12.185230+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/real-estate-vs-sp500</loc>
-    <lastmod>2026-03-31T23:23:42.850036+00:00</lastmod>
+    <loc>https://aveceasar.github.io/real-estate-vs-sp500</loc>
+    <lastmod>2026-04-01T13:21:12.827048+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/technology-vs-sp500</loc>
-    <lastmod>2026-03-31T23:23:44.208029+00:00</lastmod>
+    <loc>https://aveceasar.github.io/technology-vs-sp500</loc>
+    <lastmod>2026-04-01T13:21:14.180807+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/utilities-vs-sp500</loc>
-    <lastmod>2026-03-31T23:23:44.919607+00:00</lastmod>
+    <loc>https://aveceasar.github.io/utilities-vs-sp500</loc>
+    <lastmod>2026-04-01T13:21:14.831028+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/high-yield-oas</loc>
+    <loc>https://aveceasar.github.io/equity-put-call-ratio</loc>
+    <lastmod>2026-04-01T06:25:40.989872+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://aveceasar.github.io/high-yield-oas</loc>
     <lastmod>2026-03-31T21:36:52.940526+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ten-year-treasury</loc>
+    <loc>https://aveceasar.github.io/ten-year-treasury</loc>
     <lastmod>2026-03-31T23:27:12.487629+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/five-year-breakeven-inflation</loc>
+    <loc>https://aveceasar.github.io/sp500-earnings-yield-vs-10y</loc>
+    <lastmod>2026-04-01T06:25:41.025717+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://aveceasar.github.io/five-year-breakeven-inflation</loc>
     <lastmod>2026-03-31T21:36:52.172562+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ten-year-minus-two-year</loc>
+    <loc>https://aveceasar.github.io/ten-year-minus-two-year</loc>
     <lastmod>2026-03-31T23:27:12.531956+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/gold-silver</loc>
-    <lastmod>2026-03-31T23:22:35.033764+00:00</lastmod>
+    <loc>https://aveceasar.github.io/ratios/gold-silver</loc>
+    <lastmod>2026-04-01T13:20:06.114299+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/sp500-in-gold</loc>
-    <lastmod>2026-03-31T23:22:35.497245+00:00</lastmod>
+    <loc>https://aveceasar.github.io/ratios/sp500-in-gold</loc>
+    <lastmod>2026-04-01T13:20:06.599975+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/nasdaq-in-gold</loc>
-    <lastmod>2026-03-31T23:22:35.877956+00:00</lastmod>
+    <loc>https://aveceasar.github.io/ratios/nasdaq-in-gold</loc>
+    <lastmod>2026-04-01T13:20:06.992516+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/bitcoin-in-gold</loc>
-    <lastmod>2026-03-31T23:22:36.229974+00:00</lastmod>
+    <loc>https://aveceasar.github.io/ratios/bitcoin-in-gold</loc>
+    <lastmod>2026-04-01T13:20:07.325575+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/oil-natural-gas</loc>
-    <lastmod>2026-03-31T23:22:36.540170+00:00</lastmod>
+    <loc>https://aveceasar.github.io/ratios/oil-natural-gas</loc>
+    <lastmod>2026-04-01T13:20:07.622908+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/copper-gold</loc>
-    <lastmod>2026-03-31T23:22:36.876650+00:00</lastmod>
+    <loc>https://aveceasar.github.io/ratios/copper-gold</loc>
+    <lastmod>2026-04-01T13:20:08.063431+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/msft-aapl</loc>
+    <loc>https://aveceasar.github.io/ratios/msft-aapl</loc>
     <lastmod>2026-03-31T23:22:37.193272+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/amd-nvda</loc>
+    <loc>https://aveceasar.github.io/ratios/amd-nvda</loc>
     <lastmod>2026-03-31T23:22:37.446049+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/ko-pep</loc>
+    <loc>https://aveceasar.github.io/ratios/ko-pep</loc>
     <lastmod>2026-03-31T23:22:37.810946+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/xom-cvx</loc>
+    <loc>https://aveceasar.github.io/ratios/xom-cvx</loc>
     <lastmod>2026-03-31T23:22:38.235330+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/wmt-tgt</loc>
+    <loc>https://aveceasar.github.io/ratios/wmt-tgt</loc>
     <lastmod>2026-03-31T23:22:38.626752+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/visa-mastercard</loc>
-    <lastmod>2026-03-31T23:22:38.841992+00:00</lastmod>
+    <loc>https://aveceasar.github.io/ratios/visa-mastercard</loc>
+    <lastmod>2026-04-01T13:20:10.365375+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/jpm-bac</loc>
+    <loc>https://aveceasar.github.io/ratios/jpm-bac</loc>
     <lastmod>2026-03-31T23:22:39.189836+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/hd-low</loc>
+    <loc>https://aveceasar.github.io/ratios/hd-low</loc>
     <lastmod>2026-03-31T23:22:39.663263+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/googl-meta</loc>
+    <loc>https://aveceasar.github.io/ratios/googl-meta</loc>
     <lastmod>2026-03-31T23:22:39.857216+00:00</lastmod>
   </url>
   <url>
-    <loc>https://chartvault.local/ratios/cost-wmt</loc>
+    <loc>https://aveceasar.github.io/ratios/cost-wmt</loc>
     <lastmod>2026-03-31T23:22:40.089505+00:00</lastmod>
   </url>
 </urlset>
