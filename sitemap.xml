@@ -11,43 +11,43 @@
   </url>
   <url>
     <loc>https://chartvault.local/gold</loc>
-    <lastmod>2026-07-02T23:15:24.932534+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:21.748884+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/silver</loc>
-    <lastmod>2026-07-02T23:15:35.271596+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:29.275007+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/oil</loc>
-    <lastmod>2026-07-02T23:15:06.846585+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:07.114134+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/natural-gas</loc>
-    <lastmod>2026-07-02T23:15:30.379920+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:28.429554+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/copper</loc>
-    <lastmod>2026-07-02T23:15:06.056397+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:04.793382+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/bitcoin</loc>
-    <lastmod>2026-07-02T23:15:03.747316+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:03.886510+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500</loc>
-    <lastmod>2026-07-02T23:15:40.434527+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:34.459843+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/nasdaq100</loc>
-    <lastmod>2026-07-02T23:15:29.559553+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:26.152469+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/dxy</loc>
-    <lastmod>2026-07-02T23:15:11.775031+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:08.023847+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/vix</loc>
-    <lastmod>2026-07-02T23:15:46.672589+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:43.042404+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/vix-vs-sp500-drawdown</loc>
@@ -55,15 +55,15 @@
   </url>
   <url>
     <loc>https://chartvault.local/dxy-vs-gold</loc>
-    <lastmod>2026-07-02T23:25:49.261420+00:00</lastmod>
+    <lastmod>2026-07-03T23:25:27.356706+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/equal-weight-sp500</loc>
-    <lastmod>2026-07-02T23:22:39.336833+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:27.486649+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/mag7-vs-sp493</loc>
-    <lastmod>2026-07-02T23:22:45.451251+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:33.596439+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-vs-efa-vs-eem</loc>
@@ -99,7 +99,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/sp500-average-stock-distance-from-200dma</loc>
-    <lastmod>2026-07-02T23:25:09.670710+00:00</lastmod>
+    <lastmod>2026-07-03T23:24:50.212823+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-all-time-high-count</loc>
@@ -111,15 +111,15 @@
   </url>
   <url>
     <loc>https://chartvault.local/sp500-cross-sectional-volatility</loc>
-    <lastmod>2026-07-02T23:25:28.406980+00:00</lastmod>
+    <lastmod>2026-07-03T23:25:08.262110+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-pain-index</loc>
-    <lastmod>2026-07-02T23:25:33.344216+00:00</lastmod>
+    <lastmod>2026-07-03T23:25:12.874866+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-up-down-volume-ratio</loc>
-    <lastmod>2026-07-02T23:25:41.849928+00:00</lastmod>
+    <lastmod>2026-07-03T23:25:20.825887+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-volume-spike-count</loc>
@@ -163,7 +163,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/sp500-sector-relative-strength</loc>
-    <lastmod>2026-07-02T23:22:52.452313+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:40.893861+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-sector-breadth-50dma</loc>
@@ -171,23 +171,23 @@
   </url>
   <url>
     <loc>https://chartvault.local/sp500-sector-momentum-30d</loc>
-    <lastmod>2026-07-02T23:23:00.879562+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:48.790205+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-sector-momentum-90d</loc>
-    <lastmod>2026-07-02T23:23:01.161105+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:49.056352+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-sector-volatility-20d</loc>
-    <lastmod>2026-07-02T23:23:01.289785+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:49.183548+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-sector-underwater</loc>
-    <lastmod>2026-07-02T23:23:01.397365+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:49.273068+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/sp500-sector-distance-from-200dma</loc>
-    <lastmod>2026-07-02T23:23:01.503298+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:49.376786+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/basic-materials-vs-sp500</loc>
@@ -203,7 +203,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/consumer-defensive-vs-sp500</loc>
-    <lastmod>2026-07-02T23:22:47.584442+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:35.786207+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/energy-vs-sp500</loc>
@@ -215,7 +215,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/healthcare-vs-sp500</loc>
-    <lastmod>2026-07-02T23:22:49.626219+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:37.819282+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/industrials-vs-sp500</loc>
@@ -227,7 +227,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/technology-vs-sp500</loc>
-    <lastmod>2026-07-02T23:22:51.877294+00:00</lastmod>
+    <lastmod>2026-07-03T23:22:40.276006+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/utilities-vs-sp500</loc>
@@ -235,11 +235,11 @@
   </url>
   <url>
     <loc>https://chartvault.local/equity-put-call-ratio</loc>
-    <lastmod>2026-07-02T23:25:51.333435+00:00</lastmod>
+    <lastmod>2026-07-03T23:25:29.236720+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/high-yield-oas</loc>
-    <lastmod>2026-07-02T23:15:25.349905+00:00</lastmod>
+    <lastmod>2026-07-03T23:15:22.159876+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ten-year-treasury</loc>
@@ -259,7 +259,7 @@
   </url>
   <url>
     <loc>https://chartvault.local/ratios/gold-silver</loc>
-    <lastmod>2026-07-02T23:21:53.573012+00:00</lastmod>
+    <lastmod>2026-07-03T23:21:42.662433+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/sp500-in-gold</loc>
@@ -271,15 +271,15 @@
   </url>
   <url>
     <loc>https://chartvault.local/ratios/bitcoin-in-gold</loc>
-    <lastmod>2026-07-02T23:21:54.582805+00:00</lastmod>
+    <lastmod>2026-07-03T23:21:43.646085+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/oil-natural-gas</loc>
-    <lastmod>2026-07-02T23:21:54.760007+00:00</lastmod>
+    <lastmod>2026-07-03T23:21:43.831765+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/copper-gold</loc>
-    <lastmod>2026-07-02T23:21:55.021419+00:00</lastmod>
+    <lastmod>2026-07-03T23:21:44.074436+00:00</lastmod>
   </url>
   <url>
     <loc>https://chartvault.local/ratios/iwm-spy</loc>
