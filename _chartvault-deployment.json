@@ -1,26 +1,26 @@
 {
-  "sourceSha": "859269fb2898a79457e86cd32f5eb7a90daa936f",
-  "contentSha256": "caf708fcad85dbc42641757327a93506de6908070efbff415a6ceca261b155a7",
+  "sourceSha": "eabbe33a301c4163413d5b22ba31e3f83a4e53ce",
+  "contentSha256": "2bed397c620cc50b559e11725d7fb6ba4ecf821ad5d176000692134e7f67e1a0",
   "datasets": {
-    "sp500": "2026-11-09",
-    "gold": "2026-11-09",
-    "sp500-sector-relative-strength": "2026-11-09"
+    "sp500": "2026-11-10",
+    "gold": "2026-11-10",
+    "sp500-sector-relative-strength": "2026-11-10"
   },
   "publicChecks": {
-    "/": "3aa29d97d337bb6888c0a4933b17612174c8e7a4be33e0522bf5628169acdff7",
-    "/sitemap.xml": "bbaded01fecb369d993adcf5b1dc3056e8f85c856f57b036885dc2206307f5f2",
-    "/chart-data/sp500.json": "0ff0f530da1360e25b78d9017a62da9b693f238d26568221e1cccc0d6409773d",
-    "/chart-data/gold.json": "789560087247db7a45bcdc035930280f066e016edc748de9d33c2b3e680542ed",
-    "/chart-data/sp500-sector-relative-strength.json": "f1d8f99e022870517542f7b5566698de28ddcf5ef96aa5f7665133175e69e992",
-    "/nasdaq100-percent-above-moving-averages/": "d98998ba7853f8df7f4b6b799dc5b0f29b3c251b2180359773dacea28115f2f9",
-    "/nasdaq100-equal-weight-vs-cap-weight/": "3155da1816744966b5f46a5836f8753df70f28aa7c7681583b9bbc7b638e89f0",
-    "/nasdaq100-underwater/": "97da27716d3af3a2d546fd3459dbf538a71edcb1c7a7467ec8928d01d03567a5",
-    "/nasdaq100-distance-from-200dma/": "226928497fa31a3f766a2cf18b0900666caab8524caa1562a544d2b8afa4c80d",
-    "/nasdaq100-within-5-percent-of-52-week-high/": "810ce1af87aee1337585a821eaaee62940e47027061469af7fda369af10535e4",
-    "/chart-data/nasdaq100-percent-above-moving-averages.json": "927c2efade50a067618b824e9c12f75ba10aaa3a1694e7f451e9310a91c0d9dd",
-    "/chart-data/nasdaq100-equal-weight-vs-cap-weight.json": "0c1edab46e0a0178c86388c6e199d09acf5061354241f1cc7c2bb41231cf283a",
-    "/chart-data/nasdaq100-underwater.json": "b679a7fb90f8fd02743190b1d7021cc306b6b049a4e854eed885a3607ccd95ab",
-    "/chart-data/nasdaq100-distance-from-200dma.json": "b37c17b61f15307493edc49318e8c2800486bb71d61afe0124928ebc7475681f",
-    "/chart-data/nasdaq100-within-5-percent-of-52-week-high.json": "ce24faed2b1100eab468f170ae6a519698bc6bb9ce0bffe626836fb6db76ce0b"
+    "/": "cbb5ba922cdc159b44a75524891c213833a9f68265715724f980f288dad7c9f6",
+    "/sitemap.xml": "c6eea6349b3d9bdad9970a93ef925562e28689b2ebce63426f4d9380da442026",
+    "/chart-data/sp500.json": "403e72cf41c50f65f9745d4814d424eb485c54104850ce5f1ef0211c9963be4e",
+    "/chart-data/gold.json": "27784b65aeef6e3f9cca6cf18c6b42bfa68867c9ac731f181891921a9c24970c",
+    "/chart-data/sp500-sector-relative-strength.json": "2471aca27acad37c7888538f4e54f53701c8ca6eb7dcff245a9812b31d73cddf",
+    "/nasdaq100-percent-above-moving-averages/": "cb2f9e50a71543e4a0379fa68179224e6628becf93635ef3f13bd7bf47018092",
+    "/nasdaq100-equal-weight-vs-cap-weight/": "ff224f0d996fe7a2a821354251f5f3f5e68482932c06d0d3708deb01c8ebb040",
+    "/nasdaq100-underwater/": "6acae6b8080282a49c345b0a3cccde09f0796963c8eb8544055cd188ee753d40",
+    "/nasdaq100-distance-from-200dma/": "b9d128a5626b2486e729044920099a55177705697dd93da3eebb401904c8ded0",
+    "/nasdaq100-within-5-percent-of-52-week-high/": "fa32ce2744e3046187d8b32c8808ca02a663e421417c1727100d302b0f4d8c5c",
+    "/chart-data/nasdaq100-percent-above-moving-averages.json": "cf158a05be153452b009652d7b09d3a8d56a8cc1c7dbc0cc1537570f914900d0",
+    "/chart-data/nasdaq100-equal-weight-vs-cap-weight.json": "13231d599071af6e02e57966764342b304bddd01f630c7cf057cccd741addb3e",
+    "/chart-data/nasdaq100-underwater.json": "f88f7a4c5db8a901cec963786314b426f63fdb981e2c356ad2add0fce499a413",
+    "/chart-data/nasdaq100-distance-from-200dma.json": "1dd0154c84a177bca8547e90b93e75a4918a89e130b9ffac3cdbdf2fc390a9c0",
+    "/chart-data/nasdaq100-within-5-percent-of-52-week-high.json": "3a2bcfbc14ab90e7ea3d38b2265e38fefb6615114ecfd47dc740b49f17addaa4"
   }
 }
