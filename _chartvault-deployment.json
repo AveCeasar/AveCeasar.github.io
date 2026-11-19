@@ -1,6 +1,6 @@
 {
-  "sourceSha": "e7797b7ac83751309515f19871ff367231a43290",
-  "contentSha256": "c97c9714ad8d44319247ed124a5eb24c2f88ee68d630274b71be3af2a56d0691",
+  "sourceSha": "9857bf35cb83d45deffa7063c140f39401d11526",
+  "contentSha256": "b71cb8706d4f54af2120e5f0c1ed1fc323283179c8088e21c42308c30dc9df61",
   "datasets": {
     "sp500": "2026-11-18",
     "gold": "2026-11-18",
@@ -8,7 +8,7 @@
   },
   "publicChecks": {
     "/": "aed501db19032c15bad442d21e08c1130c6c6bf9334d11eff49a62b8610e596a",
-    "/sitemap.xml": "23675a582d3168a858f950c686117afd4142027f02e70930a4c262a2b7ce14c4",
+    "/sitemap.xml": "765feffe4f0251859dae3e184bb527ff726f8435abc4ea19b4c745f3db2864e6",
     "/chart-data/sp500.json": "3561110547e5dc033dc9015cf214f2f81a0a28a6c2f186a73a30da6254ad504b",
     "/chart-data/gold.json": "28b94f58603db92459765a38b722ae00cd184bfe9dde40a358a1c7b14abe0944",
     "/chart-data/sp500-sector-relative-strength.json": "406e7047a386c307b38dc1418c34a2377ce0eb4cefd7aa5ee1894166513667e7",
